@@ -1,0 +1,14 @@
+{
+  "venvPath": ".",
+  "venv": ".venv",
+  "useLibraryCodeForTypes": true,
+
+  "reportAttributeAccessIssue": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportArgumentType": "none",
+  "reportIncompatibleMethodOverride": "none",
+  "reportIndexIssue": "none",
+
+  "reportOptionalMemberAccess": "none",
+  "reportOptionalSubscript": "none"
+}
